@@ -63,3 +63,4 @@ PRD.md
 Architecture.md
 Design.md
 Schema.md
+/src/generated/prisma
